@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Configuration and Logs (Optional: Uncomment if you don't want to commit these)
+# config.ini
+# connection_monitor.log
+
+# Distribution / packaging
+*.egg-info/
+.eggs/
+dist/
+build/
+*.spec
+
+# OS generated files
+.DS_Store
+Thumbs.db 
